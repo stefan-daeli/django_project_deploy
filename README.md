@@ -3,5 +3,5 @@
 - OS : Ubuntu 24.04 LTS
 
 ### Notes
-- Konfigurasi dilakukan di terminal VPS
-- Disarankan konfigurasi sesuai urutan
+- The configuration is performed in the VPS terminal.
+- It is recommended that the configuration be performed in sequence.
