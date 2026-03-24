@@ -64,4 +64,21 @@ sudo apt install nginx -y
 ```
 nginx -v
 ```
+### Install MySQL Server
+```
+sudo apt install mysql-server -y
+```
+```
+sudo systemctl status mysql
+```
+**If inactive*
+```
+sudo systemctl start mysql
+```
+```
+sudo systemctl enable mysql
+```
+```
+sudo mysql
+```
 
